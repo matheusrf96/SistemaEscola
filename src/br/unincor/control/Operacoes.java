@@ -179,8 +179,6 @@ public class Operacoes {
 					listaBoletins.add(listaInterna);
 					textoBoletim = "";					
 				}
-				
-				//io.escreverArquivo(textoBoletim, listaNotas.get(i).getAluno().getNome() + ".txt");
 			}
 		}		
 		
